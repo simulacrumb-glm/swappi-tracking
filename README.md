@@ -1,2 +1,2 @@
-- Dashboard: https://github.com/simulacrumb-glm/swappi-tracking.git
-- Sentio Docs: https://docs.sentio.xyz/docs/readme
+- Dashboard: [https://github.com/simulacrumb-glm/swappi-tracking.git](https://app.sentio.xyz/glm/swappi-tracking/)
+- Sentio Docs: [https://docs.sentio.xyz/docs/readme](https://docs.sentio.xyz/docs/readme)
